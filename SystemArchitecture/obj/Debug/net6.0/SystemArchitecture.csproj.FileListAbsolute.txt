@@ -1,0 +1,14 @@
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\SystemArchitecture\SystemArchitecture\bin\Debug\net6.0\SystemArchitecture.exe
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\SystemArchitecture\SystemArchitecture\bin\Debug\net6.0\SystemArchitecture.deps.json
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\SystemArchitecture\SystemArchitecture\bin\Debug\net6.0\SystemArchitecture.runtimeconfig.json
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\SystemArchitecture\SystemArchitecture\bin\Debug\net6.0\SystemArchitecture.dll
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\SystemArchitecture\SystemArchitecture\bin\Debug\net6.0\SystemArchitecture.pdb
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\SystemArchitecture\SystemArchitecture\obj\Debug\net6.0\SystemArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\SystemArchitecture\SystemArchitecture\obj\Debug\net6.0\SystemArchitecture.AssemblyInfoInputs.cache
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\SystemArchitecture\SystemArchitecture\obj\Debug\net6.0\SystemArchitecture.AssemblyInfo.cs
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\SystemArchitecture\SystemArchitecture\obj\Debug\net6.0\SystemArchitecture.csproj.CoreCompileInputs.cache
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\SystemArchitecture\SystemArchitecture\obj\Debug\net6.0\SystemArchitecture.dll
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\SystemArchitecture\SystemArchitecture\obj\Debug\net6.0\refint\SystemArchitecture.dll
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\SystemArchitecture\SystemArchitecture\obj\Debug\net6.0\SystemArchitecture.pdb
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\SystemArchitecture\SystemArchitecture\obj\Debug\net6.0\SystemArchitecture.genruntimeconfig.cache
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\SystemArchitecture\SystemArchitecture\obj\Debug\net6.0\ref\SystemArchitecture.dll
