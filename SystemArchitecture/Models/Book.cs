@@ -11,7 +11,7 @@ namespace SystemArchitecture.Models
 
         public override string ToString() // Method untuk menampilkan data buku
         {
-            return $"Title: {ISBN}\nAuthor: {Title}\nPublication Year: {Author}\n";
+            return $"ISBN: {ISBN}\nTitle: {Title}\nAuthor: {Author}\n";
         }
     }
 }

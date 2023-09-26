@@ -177,7 +177,7 @@ namespace SystemArchitecture
                         {
                             foreach (var member in members)
                             {
-                                Console.WriteLine($"ISBN: {member.MemberId}, Title: {member.Name}, Author: {member.Email}");
+                                Console.WriteLine($"MemberId: {member.MemberId}, Name: {member.Name}, Email: {member.Email}");
                             }
                         }
                         else
